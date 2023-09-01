@@ -2,7 +2,8 @@
 
 API Java com Spring Boot para uso genérico adequada para criação de imagens de implementação CI/CD
 
-
+## Azure
+- teste
 ## App Web + Docker + Deploy
 
 ## Spring Boot
