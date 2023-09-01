@@ -1,2 +1,6 @@
 server:
   port: 8080
+
+springcod:
+  swagger-ui:
+    use-root-path: true
